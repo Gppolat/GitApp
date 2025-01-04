@@ -14,8 +14,8 @@ public class Main {
         //version 5
         System.out.println("değiikli 5");
 
-
-
+        //yeni kodlar ekledim
+        //version 7
 
 
 
